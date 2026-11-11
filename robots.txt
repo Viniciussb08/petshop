@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Substitua pelo domínio real antes de publicar
+Sitemap: https://www.pataviva.com.br/sitemap.xml
